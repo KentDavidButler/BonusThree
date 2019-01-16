@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\GrandCircus\BonusThree\BonusThree\bin\Debug\BonusThree.exe.config
+C:\Users\Administrator\source\repos\GrandCircus\BonusThree\BonusThree\bin\Debug\BonusThree.exe
+C:\Users\Administrator\source\repos\GrandCircus\BonusThree\BonusThree\bin\Debug\BonusThree.pdb
+C:\Users\Administrator\source\repos\GrandCircus\BonusThree\BonusThree\obj\Debug\BonusThree.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GrandCircus\BonusThree\BonusThree\obj\Debug\BonusThree.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GrandCircus\BonusThree\BonusThree\obj\Debug\BonusThree.exe
+C:\Users\Administrator\source\repos\GrandCircus\BonusThree\BonusThree\obj\Debug\BonusThree.pdb
